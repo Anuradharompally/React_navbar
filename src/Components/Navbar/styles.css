@@ -1,0 +1,14 @@
+.nav-container {
+  background-color: blue;
+  padding: 10px;
+}
+.nav-list {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.nav-list li {
+  color: white;
+  text-decoration: none;
+}
